@@ -105,28 +105,36 @@ Remember that hands-on practice, building projects, and experimenting with real-
      [Teams Toolkit GitHub](https://github.com/OfficeDev/TeamsFx)
    - Teams App Studio: A powerful tool for building Teams apps. Use it to visualize and prototype your Teams app.
      [Teams App Studio](https://docs.microsoft.com/en-us/microsoftteams/platform/tools/app-studio-overview)
+     
+7. Microsoft Teams Tabs:
+   - Introduction to Tabs in Teams: Understand the concept of tabs in Microsoft Teams and how they enhance app integration.
+     [Introduction to Tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs)
+   - Building Tabs in Teams Apps: Learn how to create custom tabs for your Teams app using different development approaches.
+     [Building Tabs in Teams Apps](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-tab-pages)
+   - Teams Tab Design Considerations: Explore best practices for designing effective and user-friendly tabs within Microsoft Teams.
+     [Teams Tab Design Considerations](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/prepare/design-and-develop)
 
-7. Graph API Integration:
+8. Graph API Integration:
    - Microsoft Graph API Documentation: Comprehensive documentation for understanding and using the Microsoft Graph API.
      [Microsoft Graph API Documentation](https://docs.microsoft.com/en-us/graph/)
    - Getting Started with Microsoft Graph API: A tutorial to get you started with making requests to the Graph API.
      [Getting Started with Graph API](https://docs.microsoft.com/en-us/graph/quick-start)
 
-8. Building Productive Bots:
+9. Building Productive Bots:
    - Adaptive Cards Templating: Learn how to use Adaptive Cards Templating to generate dynamic card content.
      [Adaptive Cards Templating](https://adaptivecards.io/designer/)
    - Azure Cognitive Services Documentation: Explore the different services that can enhance the intelligence of your bots.
      [Azure Cognitive Services Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
 
-9. Best Practices and Design Patterns:
-   - Bot Design Guidelines: Microsoft's recommendations for designing effective and user-friendly bots.
+10. Best Practices and Design Patterns:
+    - Bot Design Guidelines: Microsoft's recommendations for designing effective and user-friendly bots.
      [Bot Design Guidelines](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles)
-   - Error Handling in Bot Framework: Guidelines for handling errors and exceptions in your bot.
+    - Error Handling in Bot Framework: Guidelines for handling errors and exceptions in your bot.
      [Error Handling in Bot Framework](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-error-handling)
-   - Bot State Management: Learn about managing conversation and user state in your bot.
+    - Bot State Management: Learn about managing conversation and user state in your bot.
      [Bot State Management](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-state?view=azure-bot-service-4.0)
 
-10. Real-World Projects and Case Studies:
+11. Real-World Projects and Case Studies:
     - Microsoft Bot Framework Samples: Explore a collection of sample bots that demonstrate various features and scenarios.
      [Bot Framework Samples](https://github.com/microsoft/BotBuilder-Samples)
     - Microsoft Teams App Templates: Templates for building Teams apps, including bots, tabs, and messaging extensions.
