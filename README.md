@@ -1,5 +1,5 @@
 # Bot Framework Guide
-Creating a learning pathway for technologies like the Microsoft Bot Framework, Teams Toolkit, Graph API, and related skills is a great idea! Here's a comprehensive learning pathway to help you get started. Keep in mind that technology and resources might have evolved since my last update in September 2021, so make sure to check for the latest information as well.
+This is a learning pathway for technologies like the Microsoft Bot Framework, Teams Toolkit, Graph API, and related skills. Here's a comprehensive learning pathway to help you get started. 
 
 For the basic overview level introduction you can refer to this [Blog on Microsoft Teams Bot Development: A step by step guide](https://blog.osmosys.co/2023/06/05/microsoft-teams-bot-development-a-step-by-step-guide/)
 
