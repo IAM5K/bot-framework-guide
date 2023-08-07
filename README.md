@@ -29,37 +29,43 @@ For the basic overview level introduction you can refer to this [Blog on Microso
    - Learn how to create and deploy bots in Microsoft Teams using the Teams Toolkit.
    - Understand messaging extensions, tabs, and task modules in Teams.
 
-6. Graph API Integration:
+6. Microsoft Teams Tabs:
+    - Learn how tabs provide a way to embed external web content or apps directly within the Teams platform.
+    - Discover how to create custom tabs for your Teams app, enabling users to access external resources without leaving Teams.
+    - Delve into best practices for designing tabs that fit seamlessly into the Teams experience, optimizing user engagement.
+ 
+7. Graph API Integration:
    - Understand the Microsoft Graph API and its capabilities.
    - Learn how to authenticate and authorize access to Microsoft Graph resources.
    - Explore common scenarios like accessing user data, calendars, and files.
 
-7. Building Productive Bots:
+8. Building Productive Bots:
    - Implement features like adaptive cards to create interactive and dynamic bot responses.
    - Explore how to create intelligent bots using Azure Cognitive Services.
    - Learn about language understanding with LUIS (Language Understanding Intelligent Service).
 
-8. Bot Deployment and Maintenance:
+9. Bot Deployment and Maintenance:
    - Deploy your bot to Azure and configure continuous integration/continuous deployment (CI/CD).
    - Implement bot telemetry and monitoring for performance tracking.
    - Understand versioning, scaling, and maintaining your bot over time.
 
-9. Best Practices and Design Patterns:
-   - Learn about conversational design principles for effective user interactions.
-   - Understand error handling, fallback strategies, and user context management.
-   - Explore security considerations and best practices for data protection.
+10. Best Practices and Design Patterns:
+    - Learn about conversational design principles for effective user interactions.
+    - Understand error handling, fallback strategies, and user context management.
+    - Explore security considerations and best practices for data protection.
 
-10. Real-World Projects and Case Studies:
+11. Real-World Projects and Case Studies:
     - Work on practical projects that involve building bots for specific use cases (e.g., customer support, HR, sales).
     - Study case studies of successful bot implementations in various industries.
 
-11. Community Engagement and Learning:
+12. Community Engagement and Learning:
     - Join online communities, forums, and social media groups related to Microsoft Bot Framework, Teams Toolkit, and Graph API.
     - Attend webinars, workshops, and conferences to stay up-to-date with the latest trends.
 
-12. Continuous Learning and Updates:
+13. Continuous Learning and Updates:
     - Keep yourself updated with the latest releases, updates, and changes to the Bot Framework, Teams Toolkit, and Graph API.
     - Adapt your skills and knowledge as the technology landscape evolves.
+
 
 Remember that hands-on practice, building projects, and experimenting with real-world scenarios are essential components of a successful learning journey. Good luck on your learning pathway!
 
@@ -82,7 +88,7 @@ Remember that hands-on practice, building projects, and experimenting with real-
 
 3. Fundamentals of Chatbots:
    - Microsoft Learn: Bot Framework Basics: This Microsoft Learn module covers the basics of chatbots and the Microsoft Bot Framework.
-     [Bot Framework Basics](https://docs.microsoft.com/en-us/learn/modules/bot-framework-basics/)
+     [Bot Framework Basics](https://learn.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0)
 
 4. Bot Framework Essentials:
    - Create a bot with the Bot Framework SDK for Node.js: This step-by-step guide helps you create a simple bot using Node.js.
@@ -126,7 +132,19 @@ Remember that hands-on practice, building projects, and experimenting with real-
    - Azure Cognitive Services Documentation: Explore the different services that can enhance the intelligence of your bots.
      [Azure Cognitive Services Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
 
-10. Best Practices and Design Patterns:
+10. Bot Deployment and Maintenance:
+    - Deploying a Bot to Azure: Learn how to deploy your bot to Microsoft Azure to make it accessible over the internet.
+     [Deploying a Bot to Azure](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-deploy-azure?view=azure-bot-service-4.0)
+    - Continuous Integration and Deployment (CI/CD) for Bots: Understand how to set up CI/CD pipelines for your bot to automate deployment workflows.
+     [CI/CD for Bots](https://learn.microsoft.com/en-us/azure/bot-service/bot-builder-howto-vsts?view=azure-bot-service-4.0)
+    - Bot Telemetry and Monitoring: Implement telemetry to monitor your bot's performance and gather insights into user interactions.
+     [Bot Telemetry and Monitoring](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-telemetry?view=azure-bot-service-4.0)
+    - Versioning and Scaling Strategies: Explore approaches to versioning your bot and scaling it to handle increasing user demand.
+     [Versioning and Scaling Strategies](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-deploy-az-cli?view=azure-bot-service-4.0)
+    - Bot Maintenance and Updates: Understand how to manage updates, bug fixes, and new features for your deployed bot.
+     [Bot Maintenance and Updates](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-deploy-az-cli?view=azure-bot-service-4.0)
+
+11. Best Practices and Design Patterns:
     - Bot Design Guidelines: Microsoft's recommendations for designing effective and user-friendly bots.
      [Bot Design Guidelines](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles)
     - Error Handling in Bot Framework: Guidelines for handling errors and exceptions in your bot.
@@ -134,7 +152,7 @@ Remember that hands-on practice, building projects, and experimenting with real-
     - Bot State Management: Learn about managing conversation and user state in your bot.
      [Bot State Management](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-state?view=azure-bot-service-4.0)
 
-11. Real-World Projects and Case Studies:
+12. Real-World Projects and Case Studies:
     - Microsoft Bot Framework Samples: Explore a collection of sample bots that demonstrate various features and scenarios.
      [Bot Framework Samples](https://github.com/microsoft/BotBuilder-Samples)
     - Microsoft Teams App Templates: Templates for building Teams apps, including bots, tabs, and messaging extensions.
